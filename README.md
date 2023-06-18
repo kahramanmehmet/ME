@@ -1,7 +1,7 @@
 # ME
 about myself
 
-- ## 👋 Hi, I’m @mehmetkahramantr
+- ## 👋 Hi, I’m mehmet kahraman
 - ## 👀 I’m interested in physics, astronomy, data science, SQL, Python, TM1, PowerBI, Tableau
 - ## 🌱 I’m currently learning on Patika.dev
 - ## 💞️ I’m looking to collaborate on data science projects
